@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const resultDiv = document.getElementById("results");
 
-    const accessToken = "Access Token skal indtastes her";
+    const accessToken = "Insert Access Token here";
 
     fetchButton.addEventListener("click", () => {
 
