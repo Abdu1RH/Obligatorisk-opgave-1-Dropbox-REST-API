@@ -202,6 +202,6 @@ Github link: https://github.com/Abdu1RH/Obligatorisk-opgave-1-Dropbox-REST-API/
 Beskriv til sidst kort hvad du tænker om API´et i forhold til REST “constraints”.
 Hvordan er det i feks. i forhold til “Uniform Interface” og hvad gør det for din oplevelse af at bruge API´et?
 
-https://api.dropboxapi.com/2/ er ikke RESTfull, da det ikke anvende de korrekte HTTP-verber.
+https://api.dropboxapi.com/2/ er ikke RESTfull, da det ikke anvender de korrekte HTTP-verber.
 Det er lidt mærkeligt/forvirrende, at man skal bruge "POST" til alle øvelserne.
 
